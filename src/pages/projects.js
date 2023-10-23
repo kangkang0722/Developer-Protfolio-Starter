@@ -7,7 +7,7 @@ import Link from 'next/link'
 import React from 'react'
 import project1 from "../../public/images/projects/netflix-clone.png"
 import project2 from "../../public/images/projects/twitter-firebase-clone.png"
-import project3 from "../../public/images/projects/developer-profolio.png"
+import project3 from "../../public/images/projects/developer-webapp.png"
 import {motion} from "framer-motion"
 import TransitionEffect from '@/components/TransitionEffect'
 
@@ -134,18 +134,6 @@ type="Featured Project"
                 </div>
                 <div className='col-span-6 sm:col-span-12'>
                 <Project 
-title="Twitter Clone App"
-img={project2}
-summary="A feature-rich Crypto Screener App using React, Tailwind CSS, Context API, React Router and Recharts. 
-It shows detail regarding almost all the cryptocurrency. You can easily convert the price in your 
-local currency."
-link="/"
-github="/"
-type="Featured Project"
-                    />
-                </div>
-                <div className='col-span-6 sm:col-span-12'>
-                <Project 
 title="Developer Portfolio Application"
 img={project3}
 summary="A feature-rich Crypto Screener App using React, Tailwind CSS, Context API, React Router and Recharts. 
@@ -153,6 +141,18 @@ It shows detail regarding almost all the cryptocurrency. You can easily convert 
 local currency."
 link="https://developer-protfolio-starter.vercel.app/"
 github="https://github.com/kangkang0722/Developer-Protfolio-Starter.git"
+type="Featured Project"
+                    />
+                </div>
+                <div className='col-span-6 sm:col-span-12'>
+                <Project 
+title="Twitter Clone App"
+img={project2}
+summary="A feature-rich Crypto Screener App using React, Tailwind CSS, Context API, React Router and Recharts. 
+It shows detail regarding almost all the cryptocurrency. You can easily convert the price in your 
+local currency."
+link="/"
+github="/"
 type="Featured Project"
                     />
                 </div>
