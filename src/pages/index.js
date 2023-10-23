@@ -52,7 +52,7 @@ Explore my latest projects and articles, showcasing my expertise in React.js and
                 >Resume <LinkArrow className={"!w-6 ml-1"}/>
                 
                 </Link>
-                <Link href="mailto:abcd@gmail.com" target={'_blank'}
+                <Link href="mailto:huanghanwen0722@outlook.com" target={'_blank'}
                 className='ml-4 text-lg font-medium  text-dark underline dark:text-light md:text-base'
                 >Contact</Link>
               </div>
