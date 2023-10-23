@@ -134,7 +134,7 @@ type="Featured Project"
                 </div>
                 <div className='col-span-6 sm:col-span-12'>
                 <Project 
-title="Developer Portfolio Application"
+title="Developer Portfolio App"
 img={project3}
 summary="A feature-rich Crypto Screener App using React, Tailwind CSS, Context API, React Router and Recharts. 
 It shows detail regarding almost all the cryptocurrency. You can easily convert the price in your 
