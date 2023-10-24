@@ -6,7 +6,7 @@ import Image from 'next/image'
 import Link from 'next/link'
 import React from 'react'
 import project1 from "../../public/images/projects/netflix-clone.png"
-import project2 from "../../public/images/projects/twitter-firebase-clone.png"
+import project2 from "../../public/images/projects/pic-3.png"
 import project3 from "../../public/images/projects/developer-webapp.png"
 import {motion} from "framer-motion"
 import TransitionEffect from '@/components/TransitionEffect'
