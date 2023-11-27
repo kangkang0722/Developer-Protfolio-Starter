@@ -55,8 +55,8 @@ md:w-[2px] md:left-[30px] xs:left-[20px]
             info="Relevant courses included language and literature, such as Chinese literary theory, linguistic theory, classical Chinese literature, modern Chinese literature, as well as Western literary theory and literary history."
           />
           <Details
-            type="Master of Arts In Studies of Culture and Representation"
-            time="2016-2019"
+            type="Research Studento In Studies of Culture and Representation"
+            time="2016-2018"
             place="The University of Tokyo"
             info="The intellectual, literary and political histories in the East Asian Sinitic sphere (China and Japan) from the early modern period onward;The late Qing Chinese intellectual history from both a global and, more specifically, an East Asian perspective；The history of historiography in modern China and Japan；Sino-Japanese exchanges；Comparative literature, and Critical Theory."
           />
